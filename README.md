@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nasir151](https://github.com/Nasir151)
+- 👨‍💻 All of my projects are available at https://github.com/Nasir151
 
 - 💬 Ask me about **Excel, SQL, Power BI, Data Analysis**
 
 - 📫 How to reach me **im.nasirahmad15@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1E-5P5BcHGrvzW7ztygeyparipR_HIPvh/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1aX1HOgPSIOcCTKpeAwShn65wP4fl3Wxk/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nasirahmadtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasirahmadtech" height="30" width="40" /></a>
