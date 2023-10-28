@@ -1,6 +1,6 @@
 ![Black Modern Gaming Banner Landscape](https://github.com/Nasir151/Nasir151/assets/94509995/225c0198-6fc3-4cb2-83f4-51a7698c5814)
 
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 🌱 I’m currently learning **Python**
 
