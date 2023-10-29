@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at https://github.com/Nasir151
+- 👨‍💻 All of my projects are available at http://bit.ly/Githubportfolio
 
 - 💬 Ask me about **Excel, SQL, Power BI, Data Analysis**
 
