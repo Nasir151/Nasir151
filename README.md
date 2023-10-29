@@ -1,6 +1,8 @@
 ![Black Modern Gaming Banner Landscape](https://github.com/Nasir151/Nasir151/assets/94509995/225c0198-6fc3-4cb2-83f4-51a7698c5814)
 
-<h3 align="center">A passionate Data Analyst from INDIA  </h3> 
+<h3 align="center">
+
+A passionate Data Analyst from INDIA  ![India](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India")</h3>
 
 - 🌱 I’m currently learning **Python**
 
