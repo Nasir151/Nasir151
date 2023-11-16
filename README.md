@@ -8,7 +8,7 @@ A passionate Data Analyst from INDIA  ![India](https://raw.githubusercontent.com
 
 - 👨‍💻 All of my projects are available at **http://bit.ly/Githubportfolio**
 
-- 💬 Ask me about **Excel, SQL, Power BI, Data Analysis**
+- 💬 Ask me about **Advanced Excel, SQL, Power BI, Data Analysis**
 
 - 📫 How to reach me **im.nasirahmad15@gmail.com**
 
