@@ -6,9 +6,8 @@ A passionate Data Analyst from INDIA  ![India](https://raw.githubusercontent.com
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Advanced Excel, SQL, Power BI, DAX, Data Analysis**
+- 💬 Ask me about **Power BI, DAX, Report Migration, SQL, Advanced Excel, Data Analysis**
 
-- 📫 How to reach me **im.nasirahmad15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
